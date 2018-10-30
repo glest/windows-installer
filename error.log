@@ -1,3 +1,0 @@
-   at ZetaGlestInstaller.Installer.DownloadAndExtract(String path) in C:\Users\mathu\Desktop\Personal Programs\C# Programs\ZetaGlestInstaller\Installer.cs:line 302
-   at ZetaGlestInstaller.Installer.Install(String path, List`1 warnings) in C:\Users\mathu\Desktop\Personal Programs\C# Programs\ZetaGlestInstaller\Installer.cs:line 554
-   at ZetaGlestInstaller.Installer.StartInstall() in C:\Users\mathu\Desktop\Personal Programs\C# Programs\ZetaGlestInstaller\Installer.cs:line 784
