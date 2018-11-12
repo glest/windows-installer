@@ -1,6 +1,6 @@
 # ZetaGlest
 
-**Official Website: https://zetaglest.github.io/**
+**Official Website: https://zetaglest.github.io**
 
 The ZetaGlest installer for Windows
 
