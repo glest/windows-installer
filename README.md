@@ -1,7 +1,7 @@
-# ZetaGlest
+# Glest
 
-**Official Website: https://zetaglest.github.io**
+**Official Website: https://glest.github.io**
 
-The ZetaGlest installer for Windows
+The Glest installer for Windows
 
-The source code of the executable can be found here: https://github.com/ZetaGlest/windows-installer-src/
+The source code of the executable can be found here: https://github.com/Glest/windows-installer-src/
