@@ -1,6 +1,6 @@
 # Glest
 
-**Official Website: https://glest.github.io**
+**Official Website: https://glest.io**
 
 The Glest installer for Windows
 
